@@ -1,12 +1,9 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://noxia.cloud/assets/logo.png" width="60" valign="middle">
+  Noxia
+</h1>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h3 align="center">Open-source hosting provider</h3>
+<p align="center">
+Noxia is an open-source hosting provider delivering reliable, flexible infrastructure that puts you in full control. Powered by <a href="https://github.com/NoxiaCloud/Ktrl-Panel">Ktrl Panel</a>, our custom-built hosting and billing control panel, Noxia emphasizes transparency, simplicity, and freedom for its users.
+</p>
