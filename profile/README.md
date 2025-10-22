@@ -1,7 +1,9 @@
 <br>
-<div align="center">
-  <img src="https://github.com/NoxiaCloud/branding/blob/main/misc/discord_banner.png?raw=true" width="400" valign="middle"><br><br>
-</div>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/NoxiaCloud/branding/refs/heads/main/icons/white.icon.png" width="32" valign="middle">&nbsp;&nbsp;
+  Noxia
+  <br><br>
+</h1>
 
 <h3 align="center">Modern & powerful hosting provider</h3>
 <p align="center">
