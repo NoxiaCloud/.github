@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://noxia.cloud/assets/logo.png" width="60" valign="middle">
+  <img src="https://raw.githubusercontent.com/NoxiaCloud/branding/refs/heads/main/icons/white.icon.png" width="32" valign="middle">&nbsp;&nbsp;
   Noxia
 </h1>
 
